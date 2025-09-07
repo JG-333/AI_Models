@@ -3,8 +3,7 @@
 
 *Unifying Text, Image, and Tabular Data Modeling for End-to-End ML Workflows*
 
-**Integrated Pipelines for Sequential Text Generation, Pixel-Based Image Classification,  
-and Classical Classifier Benchmarking**
+**Integrated Pipelines for Sequential Text Generation, Pixel-Based Image Classification,and Classical Classifier Benchmarking**
 
 MetaCortex is a series of Python-based machine learning and deep learning implementations that demonstrate hands-on 
 skills in data processing, model development, and evaluation. This project emphasizes technical rigor in data preparation, 
