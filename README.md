@@ -1,4 +1,4 @@
-# MetaCortex  
+## MetaCortex  
 **One Cortex, Many Modalities**  
 
 *Unifying Text, Image, and Tabular Data Modeling for End-to-End ML Workflows*
@@ -11,9 +11,9 @@ model design, performance benchmarking, and predictive analysis.
 
 ___
 
-## Models
+### Models
 
-### Stacked LSTM Character Sequence Generator
+#### Stacked LSTM Character Sequence Generator
 
 Character-level sequential text generation based on stacked Long Short-Term Memory (LSTM) layers trained on literary 
 datasets.
@@ -27,7 +27,7 @@ datasets.
 
 ___
 
-### Random Forest Pixel-Based Digit Classifier
+#### Random Forest Pixel-Based Digit Classifier
 
 Image classification pipeline identifying handwritten digits from grayscale pixel data  using Random Forest ensemble methods.
 
@@ -40,7 +40,7 @@ Image classification pipeline identifying handwritten digits from grayscale pixe
 
 ___
 
-### Stratified Cross-Validated Classifier Benchmark
+#### Stratified Cross-Validated Classifier Benchmark
 
 Comparative evaluation of classical machine learning algorithms on structured  
 tabular data.
@@ -55,7 +55,7 @@ tabular data.
 
 ___
 
-## Tech Stack
+### Tech Stack
 
 - **Language:** Python 3.x  
 - **Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn, Keras, TensorFlow, NLTK  
@@ -65,7 +65,7 @@ ___
 - **Visualization:** Data plotting, boxplots, image rendering  
 
 
-## Capabilities Demonstrated
+### Capabilities Demonstrated
 
 - Preprocessing and transforming textual and image data for machine learning workflows  
 - Implementing deep recurrent neural networks for sequential data modeling  
@@ -75,7 +75,7 @@ ___
 - Managing training checkpoints and reproducible experimentation  
 
 
-## Use Cases
+### Use Cases
 
 - Character-level text generation for language modeling tasks  
 - Automated recognition of handwritten digits from pixel data  
@@ -83,6 +83,6 @@ ___
 - Foundations for building scalable NLP and computer vision applications  
 
 
-## License
+### License
 
 MIT License — Free to use, modify, and distribute.
