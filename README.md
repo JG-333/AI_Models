@@ -6,10 +6,9 @@
 **Integrated Pipelines for Sequential Text Generation, Pixel-Based Image Classification,  
 and Classical Classifier Benchmarking**
 
-MetaCortex is a series of Python-based machine learning and deep learning implementations  
-that demonstrate hands-on skills in data processing, model development, and evaluation.  
-This project emphasizes technical rigor in data preparation, model design, performance  
-benchmarking, and predictive analysis.
+MetaCortex is a series of Python-based machine learning and deep learning implementations that demonstrate hands-on 
+skills in data processing, model development, and evaluation. This project emphasizes technical rigor in data preparation, 
+model design, performance benchmarking, and predictive analysis.
 
 ___
 
@@ -17,8 +16,8 @@ ___
 
 ### Stacked LSTM Character Sequence Generator
 
-Character-level sequential text generation based on stacked Long Short-Term Memory (LSTM)  
-layers trained on literary datasets.
+Character-level sequential text generation based on stacked Long Short-Term Memory (LSTM) layers trained on literary 
+datasets.
 
 **Features:**
 - Text preprocessing: normalization, tokenization, and stopword filtering  
@@ -31,8 +30,7 @@ ___
 
 ### Random Forest Pixel-Based Digit Classifier
 
-Image classification pipeline identifying handwritten digits from grayscale pixel data  
-using Random Forest ensemble methods.
+Image classification pipeline identifying handwritten digits from grayscale pixel data  using Random Forest ensemble methods.
 
 **Features:**
 - Data parsing: loading pixel intensity values from CSV format  
@@ -62,10 +60,8 @@ ___
 
 - **Language:** Python 3.x  
 - **Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn, Keras, TensorFlow, NLTK  
-- **Techniques:** Tokenization, sequence encoding, dropout regularization,  
-  ensemble learning, stratified cross-validation  
-- **Models:** Stacked LSTM networks, Random Forest classifiers, classical machine  
-  learning algorithms  
+- **Techniques:** Tokenization, sequence encoding, dropout regularization, ensemble learning, stratified cross-validation  
+- **Models:** Stacked LSTM networks, Random Forest classifiers, classical machine learning algorithms  
 - **Evaluation:** Accuracy scoring, confusion matrices, classification reports  
 - **Visualization:** Data plotting, boxplots, image rendering  
 
