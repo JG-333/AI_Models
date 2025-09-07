@@ -1,4 +1,4 @@
-# 6 Machine Learning models -
+# Machine Learning models -
 #   Loading and Visualizing a Dataset
 #   Evaluate Machine Learning Algorithms
 #   Making Predictions Using Machine Learning Algorithms
@@ -105,3 +105,4 @@ predictions = model.predict(X_validation)
 print(accuracy_score(Y_validation, predictions))
 print(confusion_matrix(Y_validation, predictions))
 print(classification_report(Y_validation, predictions))
+
